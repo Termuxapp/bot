@@ -11,9 +11,9 @@
 
 `git clone https://github.com/Termuxapl/bot`
 
-`chmod 777 launch.sh`
+`chmod +x launch.sh`
 
-`./launch.sh install`
+`./launch.sh`
 
 برای استفاده در فایل
 config.py
