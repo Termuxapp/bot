@@ -9,7 +9,7 @@
 
 : راهنمای نصب
 
-`git clone https://github.com/Termuxapl/bot`
+`git clone https://github.com/Termuxapp/bot`
 
 `chmod +x launch.sh`
 
